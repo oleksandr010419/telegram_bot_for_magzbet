@@ -1,7 +1,5 @@
 <?php
-
 namespace Telegram\Bot\Laravel\Artisan;
-
 use Illuminate\Console\Command;
 use Illuminate\Support\Str;
 use Symfony\Component\Console\Helper\TableCell;
